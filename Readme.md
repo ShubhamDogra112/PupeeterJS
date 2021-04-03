@@ -1,6 +1,6 @@
 ## Hackerrank Bot
 
-Clone the project git clone `https://github.com/ShubhamDogra112/PupeeterJS.git`
+Clone the project `git clone https://github.com/ShubhamDogra112/PupeeterJS.git`
 
 Install the dependencies `npm install`
 
